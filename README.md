@@ -1,3 +1,6 @@
+# MODIFIED
+
+
 # Machine Learning in Snowflake
 This repo contains a very simple example for a classical machine learning problem.  
 Given some customer data from a fictional Ecommerce Company, we want to predict the yearly spent amount.
