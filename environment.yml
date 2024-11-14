@@ -1,0 +1,12 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - joblib=
+  - matplotlib=
+  - numpy=
+  - pandas=
+  - pytorch=*
+  - scikit-learn=
+  - seaborn=
+  - snowflake-ml-python=*
